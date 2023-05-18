@@ -1,6 +1,4 @@
 # web-scraping-press-relases
-Overview
-
 In this Project, you will use web scraping tools to collect data about the
 diplomatic activities of a certain country Bhutan. Each country usually has a website for
 their ministry of foreign affairs on which they share their diplomatic activities.
